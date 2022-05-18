@@ -2,7 +2,7 @@
 
 ### Show me the article
 
-* 前端工程化
+* ![前端工程化](https://github.com/cengbin/web-blog/tree/master/1%20%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96)
 * 前端优化
 * 深入理解ECMAScript规范
 * 深入理解WEBGL渲染原理
