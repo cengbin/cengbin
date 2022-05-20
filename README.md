@@ -4,7 +4,7 @@
 
 * [前端工程化](https://github.com/cengbin/web-blog/tree/master/1%20%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96)
 * [前端优化](https://github.com/cengbin/web-blog/blob/master/2%20%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96)
-* 深入理解ECMAScript规范
+* [深入理解ECMAScript规范](https://github.com/cengbin/web-blog/tree/master/3%20%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ECMAScript%E8%A7%84%E8%8C%83)
 * 深入理解WEBGL渲染原理
 
 ### Show me the code
